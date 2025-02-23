@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:135.0) Gecko/20100101 Firefox/135.0" version="24.7.14">
   <diagram name="Page-1" id="9f46799a-70d6-7492-0946-bef42562c5a5">
-    <mxGraphModel dx="2074" dy="1106" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
+    <mxGraphModel dx="1231" dy="1105" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -200,19 +200,19 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="96VNQNrVo2CyEQLn822Q-133" value="expansions_pkmn_tcg" style="shape=table;startSize=30;container=1;collapsible=0;childLayout=tableLayout;strokeColor=default;fontSize=16;fontStyle=1;fontFamily=Courier New;align=left;" vertex="1" parent="1">
-          <mxGeometry x="40" y="1140" width="990" height="390" as="geometry" />
+          <mxGeometry x="40" y="1140" width="990" height="430" as="geometry" />
         </mxCell>
         <mxCell id="96VNQNrVo2CyEQLn822Q-134" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=16;" vertex="1" parent="96VNQNrVo2CyEQLn822Q-133">
           <mxGeometry y="30" width="990" height="40" as="geometry" />
         </mxCell>
         <mxCell id="96VNQNrVo2CyEQLn822Q-135" value="Field&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=default;overflow=hidden;fillColor=default;top=1;left=1;bottom=1;right=1;pointerEvents=1;fontSize=16;fontFamily=Courier New;align=left;" vertex="1" parent="96VNQNrVo2CyEQLn822Q-134">
-          <mxGeometry width="180" height="40" as="geometry">
-            <mxRectangle width="180" height="40" as="alternateBounds" />
+          <mxGeometry width="250" height="40" as="geometry">
+            <mxRectangle width="250" height="40" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="96VNQNrVo2CyEQLn822Q-136" value="Type" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=default;overflow=hidden;fillColor=default;top=1;left=1;bottom=1;right=1;pointerEvents=1;fontSize=16;fontFamily=Courier New;align=left;" vertex="1" parent="96VNQNrVo2CyEQLn822Q-134">
-          <mxGeometry x="180" width="220" height="40" as="geometry">
-            <mxRectangle width="220" height="40" as="alternateBounds" />
+          <mxGeometry x="250" width="150" height="40" as="geometry">
+            <mxRectangle width="150" height="40" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="96VNQNrVo2CyEQLn822Q-137" value="Description" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=default;overflow=hidden;fillColor=default;top=1;left=1;bottom=1;right=1;pointerEvents=1;fontSize=16;fontFamily=Courier New;align=left;" vertex="1" parent="96VNQNrVo2CyEQLn822Q-134">
@@ -224,13 +224,13 @@
           <mxGeometry y="70" width="990" height="40" as="geometry" />
         </mxCell>
         <mxCell id="96VNQNrVo2CyEQLn822Q-139" value="name&lt;span style=&quot;white-space: pre; font-size: 14px;&quot;&gt;&#x9;&lt;/span&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=14;fontFamily=Courier New;align=left;" vertex="1" parent="96VNQNrVo2CyEQLn822Q-138">
-          <mxGeometry width="180" height="40" as="geometry">
-            <mxRectangle width="180" height="40" as="alternateBounds" />
+          <mxGeometry width="250" height="40" as="geometry">
+            <mxRectangle width="250" height="40" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="96VNQNrVo2CyEQLn822Q-140" value="&lt;div&gt;single-line text&lt;/div&gt;&lt;div&gt;(Limit to preset values)&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=14;fontFamily=Courier New;align=left;" vertex="1" parent="96VNQNrVo2CyEQLn822Q-138">
-          <mxGeometry x="180" width="220" height="40" as="geometry">
-            <mxRectangle width="220" height="40" as="alternateBounds" />
+          <mxGeometry x="250" width="150" height="40" as="geometry">
+            <mxRectangle width="150" height="40" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="96VNQNrVo2CyEQLn822Q-141" value="Pokemon TCG expansion name" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=14;fontFamily=Courier New;align=left;" vertex="1" parent="96VNQNrVo2CyEQLn822Q-138">
@@ -242,13 +242,13 @@
           <mxGeometry y="110" width="990" height="40" as="geometry" />
         </mxCell>
         <mxCell id="96VNQNrVo2CyEQLn822Q-143" value="series" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=14;fontFamily=Courier New;align=left;" vertex="1" parent="96VNQNrVo2CyEQLn822Q-142">
-          <mxGeometry width="180" height="40" as="geometry">
-            <mxRectangle width="180" height="40" as="alternateBounds" />
+          <mxGeometry width="250" height="40" as="geometry">
+            <mxRectangle width="250" height="40" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="96VNQNrVo2CyEQLn822Q-144" value="&lt;div&gt;single-line text&lt;/div&gt;&lt;div&gt;(Limit to preset values)&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=14;fontFamily=Courier New;align=left;" vertex="1" parent="96VNQNrVo2CyEQLn822Q-142">
-          <mxGeometry x="180" width="220" height="40" as="geometry">
-            <mxRectangle width="220" height="40" as="alternateBounds" />
+          <mxGeometry x="250" width="150" height="40" as="geometry">
+            <mxRectangle width="150" height="40" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="96VNQNrVo2CyEQLn822Q-145" value="Pokemon TCG series name" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=14;fontFamily=Courier New;align=left;" vertex="1" parent="96VNQNrVo2CyEQLn822Q-142">
@@ -260,13 +260,13 @@
           <mxGeometry y="150" width="990" height="40" as="geometry" />
         </mxCell>
         <mxCell id="96VNQNrVo2CyEQLn822Q-151" value="set_type" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=14;fontFamily=Courier New;align=left;" vertex="1" parent="96VNQNrVo2CyEQLn822Q-150">
-          <mxGeometry width="180" height="40" as="geometry">
-            <mxRectangle width="180" height="40" as="alternateBounds" />
+          <mxGeometry width="250" height="40" as="geometry">
+            <mxRectangle width="250" height="40" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="96VNQNrVo2CyEQLn822Q-152" value="&lt;div&gt;single-line text&lt;/div&gt;&lt;div&gt;(Limit to preset values)&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=14;fontFamily=Courier New;align=left;" vertex="1" parent="96VNQNrVo2CyEQLn822Q-150">
-          <mxGeometry x="180" width="220" height="40" as="geometry">
-            <mxRectangle width="220" height="40" as="alternateBounds" />
+          <mxGeometry x="250" width="150" height="40" as="geometry">
+            <mxRectangle width="150" height="40" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="96VNQNrVo2CyEQLn822Q-153" value="Specifies if the expansion is a main set, special set etc" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=14;fontFamily=Courier New;align=left;" vertex="1" parent="96VNQNrVo2CyEQLn822Q-150">
@@ -278,13 +278,13 @@
           <mxGeometry y="190" width="990" height="40" as="geometry" />
         </mxCell>
         <mxCell id="96VNQNrVo2CyEQLn822Q-147" value="release_date&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=14;fontFamily=Courier New;align=left;" vertex="1" parent="96VNQNrVo2CyEQLn822Q-146">
-          <mxGeometry width="180" height="40" as="geometry">
-            <mxRectangle width="180" height="40" as="alternateBounds" />
+          <mxGeometry width="250" height="40" as="geometry">
+            <mxRectangle width="250" height="40" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="96VNQNrVo2CyEQLn822Q-148" value="Date" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=14;fontFamily=Courier New;align=left;" vertex="1" parent="96VNQNrVo2CyEQLn822Q-146">
-          <mxGeometry x="180" width="220" height="40" as="geometry">
-            <mxRectangle width="220" height="40" as="alternateBounds" />
+          <mxGeometry x="250" width="150" height="40" as="geometry">
+            <mxRectangle width="150" height="40" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="96VNQNrVo2CyEQLn822Q-149" value="Official expansion release date" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=14;fontFamily=Courier New;align=left;" vertex="1" parent="96VNQNrVo2CyEQLn822Q-146">
@@ -295,14 +295,14 @@
         <mxCell id="96VNQNrVo2CyEQLn822Q-154" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=16;" vertex="1" parent="96VNQNrVo2CyEQLn822Q-133">
           <mxGeometry y="230" width="990" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="96VNQNrVo2CyEQLn822Q-155" value="cards_main_set" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=14;fontFamily=Courier New;align=left;" vertex="1" parent="96VNQNrVo2CyEQLn822Q-154">
-          <mxGeometry width="180" height="40" as="geometry">
-            <mxRectangle width="180" height="40" as="alternateBounds" />
+        <mxCell id="96VNQNrVo2CyEQLn822Q-155" value="quantity_cards_full_set" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=14;fontFamily=Courier New;align=left;" vertex="1" parent="96VNQNrVo2CyEQLn822Q-154">
+          <mxGeometry width="250" height="40" as="geometry">
+            <mxRectangle width="250" height="40" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="96VNQNrVo2CyEQLn822Q-156" value="Integer&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=14;fontFamily=Courier New;align=left;" vertex="1" parent="96VNQNrVo2CyEQLn822Q-154">
-          <mxGeometry x="180" width="220" height="40" as="geometry">
-            <mxRectangle width="220" height="40" as="alternateBounds" />
+          <mxGeometry x="250" width="150" height="40" as="geometry">
+            <mxRectangle width="150" height="40" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="96VNQNrVo2CyEQLn822Q-157" value="Count of main cards in the set" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=14;fontFamily=Courier New;align=left;" vertex="1" parent="96VNQNrVo2CyEQLn822Q-154">
@@ -313,14 +313,14 @@
         <mxCell id="96VNQNrVo2CyEQLn822Q-170" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=16;" vertex="1" parent="96VNQNrVo2CyEQLn822Q-133">
           <mxGeometry y="270" width="990" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="96VNQNrVo2CyEQLn822Q-171" value="cards_secret_rares" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=14;fontFamily=Courier New;align=left;" vertex="1" parent="96VNQNrVo2CyEQLn822Q-170">
-          <mxGeometry width="180" height="40" as="geometry">
-            <mxRectangle width="180" height="40" as="alternateBounds" />
+        <mxCell id="96VNQNrVo2CyEQLn822Q-171" value="quantity_cards_secret_rares" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=14;fontFamily=Courier New;align=left;" vertex="1" parent="96VNQNrVo2CyEQLn822Q-170">
+          <mxGeometry width="250" height="40" as="geometry">
+            <mxRectangle width="250" height="40" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="96VNQNrVo2CyEQLn822Q-172" value="Integer&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=14;fontFamily=Courier New;align=left;" vertex="1" parent="96VNQNrVo2CyEQLn822Q-170">
-          <mxGeometry x="180" width="220" height="40" as="geometry">
-            <mxRectangle width="220" height="40" as="alternateBounds" />
+          <mxGeometry x="250" width="150" height="40" as="geometry">
+            <mxRectangle width="150" height="40" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="96VNQNrVo2CyEQLn822Q-173" value="Count of secret rare cards in the set" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=14;fontFamily=Courier New;align=left;" vertex="1" parent="96VNQNrVo2CyEQLn822Q-170">
@@ -332,13 +332,13 @@
           <mxGeometry y="310" width="990" height="40" as="geometry" />
         </mxCell>
         <mxCell id="96VNQNrVo2CyEQLn822Q-159" value="chase_cards&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=14;fontFamily=Courier New;align=left;" vertex="1" parent="96VNQNrVo2CyEQLn822Q-158">
-          <mxGeometry width="180" height="40" as="geometry">
-            <mxRectangle width="180" height="40" as="alternateBounds" />
+          <mxGeometry width="250" height="40" as="geometry">
+            <mxRectangle width="250" height="40" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="96VNQNrVo2CyEQLn822Q-160" value="Integer" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=14;fontFamily=Courier New;align=left;" vertex="1" parent="96VNQNrVo2CyEQLn822Q-158">
-          <mxGeometry x="180" width="220" height="40" as="geometry">
-            <mxRectangle width="220" height="40" as="alternateBounds" />
+          <mxGeometry x="250" width="150" height="40" as="geometry">
+            <mxRectangle width="150" height="40" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="96VNQNrVo2CyEQLn822Q-161" value="Count of chase cards in the set" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=14;fontFamily=Courier New;align=left;" vertex="1" parent="96VNQNrVo2CyEQLn822Q-158">
@@ -350,16 +350,34 @@
           <mxGeometry y="350" width="990" height="40" as="geometry" />
         </mxCell>
         <mxCell id="96VNQNrVo2CyEQLn822Q-163" value="trainer_cards" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=14;fontFamily=Courier New;align=left;" vertex="1" parent="96VNQNrVo2CyEQLn822Q-162">
-          <mxGeometry width="180" height="40" as="geometry">
-            <mxRectangle width="180" height="40" as="alternateBounds" />
+          <mxGeometry width="250" height="40" as="geometry">
+            <mxRectangle width="250" height="40" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="96VNQNrVo2CyEQLn822Q-164" value="Integer" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=14;fontFamily=Courier New;align=left;" vertex="1" parent="96VNQNrVo2CyEQLn822Q-162">
-          <mxGeometry x="180" width="220" height="40" as="geometry">
-            <mxRectangle width="220" height="40" as="alternateBounds" />
+          <mxGeometry x="250" width="150" height="40" as="geometry">
+            <mxRectangle width="150" height="40" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="96VNQNrVo2CyEQLn822Q-165" value="Count of trainer cards in the set" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=14;fontFamily=Courier New;align=left;" vertex="1" parent="96VNQNrVo2CyEQLn822Q-162">
+          <mxGeometry x="400" width="590" height="40" as="geometry">
+            <mxRectangle width="590" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="96VNQNrVo2CyEQLn822Q-248" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=16;" vertex="1" parent="96VNQNrVo2CyEQLn822Q-133">
+          <mxGeometry y="390" width="990" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="96VNQNrVo2CyEQLn822Q-249" value="tcg_mechanics&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=14;fontFamily=Courier New;align=left;" vertex="1" parent="96VNQNrVo2CyEQLn822Q-248">
+          <mxGeometry width="250" height="40" as="geometry">
+            <mxRectangle width="250" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="96VNQNrVo2CyEQLn822Q-250" value="&lt;div&gt;single-line text&lt;/div&gt;&lt;div&gt;(Limit to preset values)&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=14;fontFamily=Courier New;align=left;" vertex="1" parent="96VNQNrVo2CyEQLn822Q-248">
+          <mxGeometry x="250" width="150" height="40" as="geometry">
+            <mxRectangle width="150" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="96VNQNrVo2CyEQLn822Q-251" value="A list of TCG mechanics available within the set" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=14;fontFamily=Courier New;align=left;" vertex="1" parent="96VNQNrVo2CyEQLn822Q-248">
           <mxGeometry x="400" width="590" height="40" as="geometry">
             <mxRectangle width="590" height="40" as="alternateBounds" />
           </mxGeometry>
@@ -371,13 +389,13 @@
           <mxGeometry y="30" width="990" height="50" as="geometry" />
         </mxCell>
         <mxCell id="96VNQNrVo2CyEQLn822Q-176" value="Field&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=default;overflow=hidden;fillColor=default;top=1;left=1;bottom=1;right=1;pointerEvents=1;fontSize=16;fontFamily=Courier New;align=left;" vertex="1" parent="96VNQNrVo2CyEQLn822Q-175">
-          <mxGeometry width="170" height="50" as="geometry">
-            <mxRectangle width="170" height="50" as="alternateBounds" />
+          <mxGeometry width="220" height="50" as="geometry">
+            <mxRectangle width="220" height="50" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="96VNQNrVo2CyEQLn822Q-177" value="Type" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=default;overflow=hidden;fillColor=default;top=1;left=1;bottom=1;right=1;pointerEvents=1;fontSize=16;fontFamily=Courier New;align=left;" vertex="1" parent="96VNQNrVo2CyEQLn822Q-175">
-          <mxGeometry x="170" width="230" height="50" as="geometry">
-            <mxRectangle width="230" height="50" as="alternateBounds" />
+          <mxGeometry x="220" width="180" height="50" as="geometry">
+            <mxRectangle width="180" height="50" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="96VNQNrVo2CyEQLn822Q-178" value="Description" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=default;overflow=hidden;fillColor=default;top=1;left=1;bottom=1;right=1;pointerEvents=1;fontSize=16;fontFamily=Courier New;align=left;" vertex="1" parent="96VNQNrVo2CyEQLn822Q-175">
@@ -389,13 +407,13 @@
           <mxGeometry y="80" width="990" height="40" as="geometry" />
         </mxCell>
         <mxCell id="96VNQNrVo2CyEQLn822Q-180" value="series" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=14;fontFamily=Courier New;align=left;" vertex="1" parent="96VNQNrVo2CyEQLn822Q-179">
-          <mxGeometry width="170" height="40" as="geometry">
-            <mxRectangle width="170" height="40" as="alternateBounds" />
+          <mxGeometry width="220" height="40" as="geometry">
+            <mxRectangle width="220" height="40" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="96VNQNrVo2CyEQLn822Q-181" value="&lt;div&gt;single-line text&lt;/div&gt;&lt;div&gt;(Limit to preset values)&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=14;fontFamily=Courier New;align=left;" vertex="1" parent="96VNQNrVo2CyEQLn822Q-179">
-          <mxGeometry x="170" width="230" height="40" as="geometry">
-            <mxRectangle width="230" height="40" as="alternateBounds" />
+          <mxGeometry x="220" width="180" height="40" as="geometry">
+            <mxRectangle width="180" height="40" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="96VNQNrVo2CyEQLn822Q-182" value="Pokemon TCG series name" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=14;fontFamily=Courier New;align=left;" vertex="1" parent="96VNQNrVo2CyEQLn822Q-179">
@@ -407,13 +425,13 @@
           <mxGeometry y="120" width="990" height="40" as="geometry" />
         </mxCell>
         <mxCell id="96VNQNrVo2CyEQLn822Q-184" value="set_type" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=14;fontFamily=Courier New;align=left;" vertex="1" parent="96VNQNrVo2CyEQLn822Q-183">
-          <mxGeometry width="170" height="40" as="geometry">
-            <mxRectangle width="170" height="40" as="alternateBounds" />
+          <mxGeometry width="220" height="40" as="geometry">
+            <mxRectangle width="220" height="40" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="96VNQNrVo2CyEQLn822Q-185" value="&lt;div&gt;single-line text&lt;/div&gt;&lt;div&gt;(Limit to preset values)&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=14;fontFamily=Courier New;align=left;" vertex="1" parent="96VNQNrVo2CyEQLn822Q-183">
-          <mxGeometry x="170" width="230" height="40" as="geometry">
-            <mxRectangle width="230" height="40" as="alternateBounds" />
+          <mxGeometry x="220" width="180" height="40" as="geometry">
+            <mxRectangle width="180" height="40" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="96VNQNrVo2CyEQLn822Q-186" value="Specifies if the expansion is a main set, special set etc" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=14;fontFamily=Courier New;align=left;" vertex="1" parent="96VNQNrVo2CyEQLn822Q-183">
@@ -425,13 +443,13 @@
           <mxGeometry y="160" width="990" height="40" as="geometry" />
         </mxCell>
         <mxCell id="96VNQNrVo2CyEQLn822Q-188" value="expansion" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=14;fontFamily=Courier New;align=left;" vertex="1" parent="96VNQNrVo2CyEQLn822Q-187">
-          <mxGeometry width="170" height="40" as="geometry">
-            <mxRectangle width="170" height="40" as="alternateBounds" />
+          <mxGeometry width="220" height="40" as="geometry">
+            <mxRectangle width="220" height="40" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="96VNQNrVo2CyEQLn822Q-189" value="&lt;div&gt;reference&amp;nbsp;&lt;/div&gt;&lt;div&gt;(expansion_pkmn_tcg)&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=14;fontFamily=Courier New;align=left;" vertex="1" parent="96VNQNrVo2CyEQLn822Q-187">
-          <mxGeometry x="170" width="230" height="40" as="geometry">
-            <mxRectangle width="230" height="40" as="alternateBounds" />
+          <mxGeometry x="220" width="180" height="40" as="geometry">
+            <mxRectangle width="180" height="40" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="96VNQNrVo2CyEQLn822Q-190" value="Links product to a Pokemon TCG expansion" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=14;fontFamily=Courier New;align=left;" vertex="1" parent="96VNQNrVo2CyEQLn822Q-187">
@@ -443,13 +461,13 @@
           <mxGeometry y="200" width="990" height="40" as="geometry" />
         </mxCell>
         <mxCell id="96VNQNrVo2CyEQLn822Q-245" value="rrp&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=14;fontFamily=Courier New;align=left;" vertex="1" parent="96VNQNrVo2CyEQLn822Q-244">
-          <mxGeometry width="170" height="40" as="geometry">
-            <mxRectangle width="170" height="40" as="alternateBounds" />
+          <mxGeometry width="220" height="40" as="geometry">
+            <mxRectangle width="220" height="40" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="96VNQNrVo2CyEQLn822Q-246" value="Money" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=14;fontFamily=Courier New;align=left;" vertex="1" parent="96VNQNrVo2CyEQLn822Q-244">
-          <mxGeometry x="170" width="230" height="40" as="geometry">
-            <mxRectangle width="230" height="40" as="alternateBounds" />
+          <mxGeometry x="220" width="180" height="40" as="geometry">
+            <mxRectangle width="180" height="40" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="96VNQNrVo2CyEQLn822Q-247" value="The recommended retail price" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=14;fontFamily=Courier New;align=left;" vertex="1" parent="96VNQNrVo2CyEQLn822Q-244">
@@ -460,14 +478,14 @@
         <mxCell id="96VNQNrVo2CyEQLn822Q-191" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=16;" vertex="1" parent="96VNQNrVo2CyEQLn822Q-174">
           <mxGeometry y="240" width="990" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="96VNQNrVo2CyEQLn822Q-192" value="booster_pack_count" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=14;fontFamily=Courier New;align=left;" vertex="1" parent="96VNQNrVo2CyEQLn822Q-191">
-          <mxGeometry width="170" height="40" as="geometry">
-            <mxRectangle width="170" height="40" as="alternateBounds" />
+        <mxCell id="96VNQNrVo2CyEQLn822Q-192" value="quantity_booster_packs" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=14;fontFamily=Courier New;align=left;" vertex="1" parent="96VNQNrVo2CyEQLn822Q-191">
+          <mxGeometry width="220" height="40" as="geometry">
+            <mxRectangle width="220" height="40" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="96VNQNrVo2CyEQLn822Q-193" value="Integer" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=14;fontFamily=Courier New;align=left;" vertex="1" parent="96VNQNrVo2CyEQLn822Q-191">
-          <mxGeometry x="170" width="230" height="40" as="geometry">
-            <mxRectangle width="230" height="40" as="alternateBounds" />
+          <mxGeometry x="220" width="180" height="40" as="geometry">
+            <mxRectangle width="180" height="40" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="96VNQNrVo2CyEQLn822Q-194" value="Count of booster packs in the product" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=14;fontFamily=Courier New;align=left;" vertex="1" parent="96VNQNrVo2CyEQLn822Q-191">
@@ -479,13 +497,13 @@
           <mxGeometry y="280" width="990" height="40" as="geometry" />
         </mxCell>
         <mxCell id="96VNQNrVo2CyEQLn822Q-196" value="includes_promo_card&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=14;fontFamily=Courier New;align=left;" vertex="1" parent="96VNQNrVo2CyEQLn822Q-195">
-          <mxGeometry width="170" height="40" as="geometry">
-            <mxRectangle width="170" height="40" as="alternateBounds" />
+          <mxGeometry width="220" height="40" as="geometry">
+            <mxRectangle width="220" height="40" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="96VNQNrVo2CyEQLn822Q-197" value="Boolean" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=14;fontFamily=Courier New;align=left;" vertex="1" parent="96VNQNrVo2CyEQLn822Q-195">
-          <mxGeometry x="170" width="230" height="40" as="geometry">
-            <mxRectangle width="230" height="40" as="alternateBounds" />
+          <mxGeometry x="220" width="180" height="40" as="geometry">
+            <mxRectangle width="180" height="40" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="96VNQNrVo2CyEQLn822Q-198" value="Defines whether a product contains a promo card" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=14;fontFamily=Courier New;align=left;" vertex="1" parent="96VNQNrVo2CyEQLn822Q-195">
@@ -497,13 +515,13 @@
           <mxGeometry y="320" width="990" height="40" as="geometry" />
         </mxCell>
         <mxCell id="96VNQNrVo2CyEQLn822Q-200" value="release date&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=14;fontFamily=Courier New;align=left;" vertex="1" parent="96VNQNrVo2CyEQLn822Q-199">
-          <mxGeometry width="170" height="40" as="geometry">
-            <mxRectangle width="170" height="40" as="alternateBounds" />
+          <mxGeometry width="220" height="40" as="geometry">
+            <mxRectangle width="220" height="40" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="96VNQNrVo2CyEQLn822Q-201" value="Date" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=14;fontFamily=Courier New;align=left;" vertex="1" parent="96VNQNrVo2CyEQLn822Q-199">
-          <mxGeometry x="170" width="230" height="40" as="geometry">
-            <mxRectangle width="230" height="40" as="alternateBounds" />
+          <mxGeometry x="220" width="180" height="40" as="geometry">
+            <mxRectangle width="180" height="40" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="96VNQNrVo2CyEQLn822Q-202" value="The release date for the product" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=14;fontFamily=Courier New;align=left;" vertex="1" parent="96VNQNrVo2CyEQLn822Q-199">
